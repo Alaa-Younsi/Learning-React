@@ -1,2 +1,1 @@
-# Learning React
-## My React learning journey
+Coming Soon!
